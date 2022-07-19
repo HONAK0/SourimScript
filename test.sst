@@ -1,0 +1,3 @@
+var num = 'Hello, world'
+num += '\n'
+print $num, '\n'
